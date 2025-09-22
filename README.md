@@ -39,7 +39,9 @@ Este portafolio tiene como meta:
 ## 📸 Vista previa
 
 ![Vista previa del portafolio](imagenes/capture-web.png)  
+
 ---
+
 ## 🛠️ Tecnologías utilizadas
 
 - **HTML5**  

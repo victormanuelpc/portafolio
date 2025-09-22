@@ -38,7 +38,7 @@ Este portafolio tiene como meta:
 
 ## 📸 Vista previa
 
-![Vista previa del portafolio](./img/preview.png)  
+![Vista previa del portafolio](./imgagen/capture-web.png)  
 *(Reemplaza esta imagen con una captura de tu proyecto una vez lo tengas avanzado)*  
 
 ---

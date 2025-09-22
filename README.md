@@ -13,8 +13,9 @@ El objetivo de este sitio es mostrar mis avances en diseño web, mis proyectos y
 
 ## 📂 Contenido del proyecto
 
-- `index.html` → Página principal de mi portafolio.  
-- `style.css` → Archivo de estilos para dar diseño y estructura visual.  
+- `index.html` → Página principal de mi portafolio.
+- `about.html` → Página secundaria "Sobre mí", de mi portafolio.
+- `/styles` → Carpeta ue contiene el archivo style.csss (de estilos) para dar diseño y estructura visual.  
 - `/imagenes` → Carpeta con las imágenes utilizadas en el proyecto.  
 
 ---
@@ -40,7 +41,7 @@ Este portafolio tiene como meta:
 
 ## 📸 Vista previa
 
-![Vista previa del portafolio]([../assets/capture-web.png]
+![Vista previa del portafolio]([assets/capture-web.png])
 ---
 
 ## 🛠️ Tecnologías utilizadas

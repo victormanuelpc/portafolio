@@ -40,7 +40,7 @@ Este portafolio tiene como meta:
 
 ## 📸 Vista previa
 
-![Vista previa del portafolio](assets/capture-web.png)  
+![Vista previa del portafolio]([assets/capture-web.png](https://github.com/victormanuelpc/portafolio/blob/main/assets/capture-web.png))  
 
 ---
 

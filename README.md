@@ -1,4 +1,4 @@
-# portafolio
+# Portafolio
 Es un proyecto en construcción, como práctica académica de mi estudio en Alura LATAM, específicamente el curso de HTML Y CSS.
 Partiendo de un modelo (plantilla) posteado en Figma se ha ido editando el código procurando fidelidad a dicho diseño.
 

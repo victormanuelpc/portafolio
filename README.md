@@ -16,7 +16,7 @@ El objetivo de este sitio es mostrar mis avances en diseño web, mis proyectos y
 - `index.html` → Página principal de mi portafolio.
 - `about.html` → Página secundaria "Sobre mí", de mi portafolio.
 - `/styles` → Carpeta que contiene el archivo style.csss (de estilos) para dar diseño y estructura visual.  
-- `/imagenes` → Carpeta con las imágenes utilizadas en el proyecto.  
+- `/assets` → Carpeta con las imágenes utilizadas en el proyecto.  
 
 ---
 

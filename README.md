@@ -6,7 +6,7 @@ Partiendo de un modelo (plantilla) posteado en Figma se ha ido editando el códi
 
 Este es mi proyecto personal de portafolio desarrollado con **HTML y CSS**.  
 El objetivo de este sitio es mostrar mis avances en diseño web, mis proyectos y prácticas como desarrollador en formación.
-
+---
 👉 **[Ver Portafolio en GitHub Pages](https://victormanuelpc.github.io/portafolio/)**
 
 ---
